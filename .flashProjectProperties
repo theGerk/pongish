@@ -1,0 +1,20 @@
+<projectDescription>
+  <id>1306171852737</id>
+  <name>Pong</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/BusEd/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/BusEd/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///C|/Users/Benji/Documents/Flash%20Game%20Programing/flash/Pongish/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="Pong.fla">file:///E|/Flash Game Programing/flash/Pong/Pong.fla</uri>
+    <uri label="Pongish.fla">file:///C|/Users/Benji/Documents/Flash Game Programing/flash/Pongish/Pongish.fla</uri>
+  </compileList>
+  <recentFiles editable="false"/>
+  <locations editable="false"/>
+</projectDescription>
